@@ -72,7 +72,7 @@ listed below.
 | 1 | Otu Favour Effiong | 23/EG/CV/002 | [favourotu](https://github.com/favourotu) | Group leader — coordination and deployment |
 | 2 | Ekpoh, Deborah Iniobong | 23/EG/CV/092 | [debbyini](https://github.com/debbyini) | Dataset preparation and preprocessing |
 | 3 | Benson, Ukeme Ime | 23/EG/CV/072 | [uknature](https://github.com/uknature) | Dataset preparation and preprocessing |
-| 4 | Ukure Emmanuel Godwin | 23/EG/CV/022 | [emmanuelokure126-bot](https://github.com/emmanuelokure126-bot) | Model development and training |
+| 4 | Okure Emmanuel Godwin | 23/EG/CV/022 | [emmanuelokure126-bot](https://github.com/emmaokure) | Model development and training |
 | 5 | Imousen Usen Etuk | 023/EG/CV/052 | [Imousenetuk](https://github.com/Imousenetuk) | Model development and training |
 | 6 | Abasiodiong Friday Okobo | 23/EG/CV/042 | [abasiodiongokobo-collab](https://github.com/abasiodiongokobo-collab) | Model evaluation |
 | 7 | Edidiong Brian Nkanta | 23/EG/CV/032 | [edidiongnkanta](https://github.com/edidiongnkanta) | Application development |
